@@ -126,7 +126,7 @@ brew install pandoc
 brew install ffmpeg
 
 # Verify installations
-convert --version
+magick --version
 pandoc --version
 ffmpeg -version
 ```

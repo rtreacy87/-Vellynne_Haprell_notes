@@ -1,2 +1,25 @@
 # Virtual environment
 vellynne-env/
+
+# Audio files (large)
+audio/*.wav
+audio/*.mp3
+audio/*.m4a
+
+# API keys
+.env
+config/secrets.json
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Output files (can be regenerated)
+output/*.pdf
+
+# Large image files (if needed)
+# Uncomment specific patterns as needed:
+# images/processed/temp/*.png
+# images/raw/*.png
