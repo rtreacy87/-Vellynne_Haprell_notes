@@ -33,7 +33,7 @@ P.S.
 
 The Goliath leader has expressed interest in meeting the "Yeti Slayer" again. I presume this refers to Glarkul, who I understand delivered the killing blow to three of the four yetis. I cannot fathom what such a meeting might entail, but I thought it prudent to pass along the message.
 
-![Yeti Combat Tactics](https://github.com/rtreacy87/-Vellynne_Haprell_notes/blob/main/vellynne-notes/session01/yeti-combat.png)
+![Yeti Combat Tactics](https://github.com/rtreacy87/-Vellynne_Haprell_notes/blob/main/vellynne-notes/session01/yeti_combat.png)
 ---
 
 **Enclosed:**
