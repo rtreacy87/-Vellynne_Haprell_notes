@@ -14,11 +14,11 @@ Your dedication to your oath remains admirable, if somewhat ironic given your cu
 
 The vampires you encountered were likely brides of an Elder vampire. Tradition dictates that greater vampires typically maintain three such brides, suggesting at least one more remains at large. By destroying two of them, you've undoubtedly placed yourselves squarely in the Elder's sights. A word of caution: such beings are patient and vindictive in equal measure. I would advise maintaining wards against scrying and charm effects, particularly given how one vampire's "otherworldly" charm nearly ensnared several of your companions.
 
-![Vampire Bride Anatomical Study](vampire-bride-anatomical)
+![Vampire Bride Anatomical Study](vampire-bride-anatomical.png)
 
 I would be most grateful if you could provide additional details regarding the female voice that cast Lightning Bolt from within the crowd—purely for academic documentation, I assure you. Of particular interest is how your dampir senses responded to her presence. Was there something unusual about her aura? Such information would significantly contribute to my ongoing research into magical signatures, which I know you find distasteful yet might one day help you reconcile the duality of your existence.
 
-![Elder Vampire Influence Diagram](elder-vampire-influence)
+![Elder Vampire Influence Diagram](elder-vampire-influence.png)
 
 Despite our philosophical differences, I've taken the liberty of working with Northwatch to prevent the fallen from rising as undead. I've added certain alchemical compounds to the corpses—nothing necromantic, I assure you—that will make them easier to track should someone attempt to raise them. Additionally I included some wards that will aid me in determining the nature of their resurrection. A corpse pile of that magnitude will prove difficult for our enemies to resist, creating an opportunity to identify those responsible.
 
@@ -30,9 +30,9 @@ With scholarly interest and perpetual amusement,
 Tenth Black Staff of Blackstaff Academy
 
 P.S. The Goliath leader has expressed interest in meeting the "Yeti Slayer" again. I presume this refers to Glarkul, who I understand delivered the killing blow to three of the four yetis. I cannot fathom what such a meeting might entail, but I thought it prudent to pass along the message.
-![Yeti Combat Tactics](yeti-combat-tactics)
+![Yeti Combat Tactics](yeti-combat-tactics.png)
 ---
 
 **Enclosed:**
 - A small vial of silvered oil that can be applied to weapons (effective against both vampires and lycanthropes)
-![Silvered Oil Application Diagram](silvered-oil-application)
+![Silvered Oil Application Diagram](silvered-oil-application.png)
